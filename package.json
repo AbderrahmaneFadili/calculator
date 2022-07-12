@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "colors": "^1.4.0",
     "mathjs": "^10.6.4",
     "prompt-sync": "^4.2.0"
   },
