@@ -7,5 +7,19 @@
   "devDependencies": {
     "@types/node": "^18.0.3",
     "@types/prompt-sync": "^4.1.1"
-  }
+  },
+  "name": "calculator",
+  "description": "calculator app using typescript",
+  "version": "1.0.0",
+  "main": "app/app.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "calculator",
+    "operations",
+    "math"
+  ],
+  "author": "Fadili Abderrahamne",
+  "license": "ISC"
 }
